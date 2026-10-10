@@ -1,0 +1,32 @@
+Fictional Medical Report
+For software testing only
+
+CBC:
+Hemoglobin: 13.2 g/dL
+Reference Range: 13.0 - 17.0 g/dL
+
+WBC: 7,200 /µL
+Reference Range: 4,000 - 11,000 /µL
+
+Platelets: 250,000 /µL
+Reference Range: 150,000 - 450,000 /µL
+
+Fasting Glucose: 108 mg/dL
+Reference Range: 70 - 99 mg/dL
+
+HbA1c: 6.1 %
+Reference Range: < 5.7 %
+
+Total Cholesterol: 218 mg/dL
+Reference Range: < 200 mg/dL
+
+HDL: 46 mg/dL
+Reference Range: > 40 mg/dL
+
+LDL: 142 mg/dL
+Reference Range: < 100 mg/dL
+
+Triglycerides: 151 mg/dL
+Reference Range: < 150 mg/dL
+
+This report is fictional and must only be used for software testing.
