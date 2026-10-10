@@ -105,7 +105,7 @@ MedSimplify/
 Before installing, ensure you have:
 1. **Python 3.10+**
 2. **Node.js 18+** & **npm**
-3. **OpenAI API Key** ([Get key here](https://platform.openai.com/api-keys))
+3. **GeminiAI API Key** ([Get key here](https://platform.openai.com/api-keys))
 4. *(Optional for image OCR)* **Tesseract OCR** installed on your system
 
 ---
